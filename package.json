@@ -1,0 +1,24 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "description": "Building a ReactJS app from scratch because reasons.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/whipjack/scratch.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "scratch"
+  ],
+  "author": "whipjack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whipjack/scratch/issues"
+  },
+  "homepage": "https://github.com/whipjack/scratch#readme"
+}
